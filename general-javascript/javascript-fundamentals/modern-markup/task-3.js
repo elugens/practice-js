@@ -4,6 +4,8 @@
 
 // Option 1: Call a function as an argument
 
+///// Solution Example /////
+
 // function
 function greet(name, callback) {
     console.log(`Hello, ${name}!`);
@@ -25,6 +27,8 @@ greet('JavaScript', callMe);
 /////////////////////////////////////////////
 
 // Option 2: Use setTimeOut to call a function
+
+///// Solution Example /////
 
 //  program that shows the delay in execution
 
